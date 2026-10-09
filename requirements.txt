@@ -1,0 +1,9 @@
+# No third-party dependencies.
+#
+# This project is intentionally pure Python standard library
+# (urllib, json, statistics, pathlib). All it needs is:
+#
+#     Python >= 3.10
+#
+# Network access reaches only public exchange market-data endpoints
+# (Hyperliquid / Binance / Bybit). No API keys are required.

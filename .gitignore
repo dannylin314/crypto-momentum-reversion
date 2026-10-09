@@ -1,0 +1,30 @@
+# ─── secrets — never commit ───────────────────────────────
+x_credentials.txt
+x_bearer.txt
+.env
+.env.*
+*.pem
+*.key
+
+# ─── python ───────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.mypy_cache/
+.pytest_cache/
+
+# ─── runtime artifacts (regenerated from public APIs) ─────
+*_cache.json
+binance_cache.json
+bt_series_cache.json
+rh_series_cache.json
+*.log
+
+# ─── live mutable ledgers (committed snapshots live in results/) ──
+paper_short_state.json
+paper_short_mv_state.json
+paper_short_vn_state.json
+hl_state.json
+meme_state.json
+paper_state.json

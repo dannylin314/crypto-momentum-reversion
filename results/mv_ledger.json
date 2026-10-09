@@ -1,0 +1,99 @@
+{
+  "equity": 9952.56464215899,
+  "positions": {},
+  "closed": [
+    {
+      "symbol": "BYB:EVAAUSDT",
+      "entry": 0.6346377525569538,
+      "exit": 0.6780306149396961,
+      "ret_pct": -6.94084087954373,
+      "pnl": -34.704204397718655,
+      "reason": "max_hold",
+      "held_hrs": 51.03336653378275,
+      "tp1": false,
+      "tp2": false,
+      "sig": "byb\u00b7vel4h"
+    },
+    {
+      "symbol": "BYB:CUSDT",
+      "entry": 0.07889780771185942,
+      "exit": 0.0844526110240139,
+      "ret_pct": -7.1440242574384945,
+      "pnl": -35.719228284160295,
+      "reason": "max_hold",
+      "held_hrs": 49.099929604000515,
+      "tp1": false,
+      "tp2": false,
+      "sig": "byb\u00b7vel4h"
+    },
+    {
+      "symbol": "BYB:B2USDT",
+      "entry": 0.5956505442409422,
+      "exit": 0.4768294150522073,
+      "ret_pct": 19.858101424187037,
+      "pnl": 99.2855426576357,
+      "reason": "max_hold",
+      "held_hrs": 33.26670157743825,
+      "tp1": false,
+      "tp2": false,
+      "sig": "byb\u00b7vel4h"
+    },
+    {
+      "symbol": "BYB:BPUSDT",
+      "entry": 0.7725006918122486,
+      "exit": 0.8102860222207128,
+      "ret_pct": -0.31272684849714244,
+      "pnl": -1.5635169728493157,
+      "reason": "max_hold",
+      "held_hrs": 12.033223601380984,
+      "tp1": true,
+      "tp2": false,
+      "sig": "byb\u00b7vel4h"
+    },
+    {
+      "symbol": "BYB:CHRUSDT",
+      "entry": 0.024026885890596313,
+      "exit": 0.021710092556456298,
+      "ret_pct": 9.733854134050635,
+      "pnl": 48.80213093143074,
+      "reason": "max_hold",
+      "held_hrs": 12.033156553705533,
+      "tp1": true,
+      "tp2": false,
+      "sig": "byb\u00b7vel4h"
+    },
+    {
+      "symbol": "BYB:BPUSDT",
+      "entry": 1.284926780186367,
+      "exit": 1.1796209560317972,
+      "ret_pct": 8.67230025887392,
+      "pnl": 43.69148545830773,
+      "reason": "max_hold",
+      "held_hrs": 12.000203006532457,
+      "tp1": true,
+      "tp2": false,
+      "sig": "byb\u00b7vel4h"
+    },
+    {
+      "symbol": "BYB:JCTUSDT",
+      "entry": 0.0018596970766582659,
+      "exit": 0.0024721536879570155,
+      "ret_pct": -33.04960492735124,
+      "pnl": -167.22756723365694,
+      "reason": "stop_loss",
+      "held_hrs": 2.3001475568612415,
+      "tp1": false,
+      "tp2": false,
+      "sig": "byb\u00b7vel4h"
+    }
+  ],
+  "cooldowns": {
+    "BYB:EVAAUSDT": 1789924750.812203,
+    "BYB:CUSDT": 1789924750.812203,
+    "BYB:B2USDT": 1789924750.812203,
+    "BYB:BPUSDT": 1790344391.0992024,
+    "BYB:CHRUSDT": 1790136550.5713315,
+    "BYB:JCTUSDT": 1791496511.066592
+  },
+  "stopped_out": []
+}
